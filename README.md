@@ -5,7 +5,7 @@
 
 |№|Название проекта|Сфера|Описание|Навыки и инструменты|Ключевые теги|
 |:-----:|-----|:-----:|-----|:-----:|:-----:|
-|1|[Accounting transactions log test (anti-fraud).](https://github.com/AVGorbulya/Yandex_Practicum/tree/main/1_Исследование%20надежности%20заемщиков)|Бухгалтерский учет, Аудит|Выявление потенциальных фрод-транзакций в журнале бухгалтерских операций| `Python` `Pandas` |предобработка, срезы данных, функции, обработка текста|
+|1|[Accounting transactions log test (anti-fraud).](https://github.com/AVGorbulya/My_freelance_project/tree/main/Accounting_transactions_log_test)|Бухгалтерский учет, Аудит|Выявление потенциальных фрод-транзакций в журнале бухгалтерских операций| `Python` `Pandas` |предобработка, срезы данных, функции, обработка текста|
 
  
 
