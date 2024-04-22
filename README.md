@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Портфолио моих freelance проектов по аналитике данных&nbsp;
+  &nbsp;Портфолио моих freelance/pets проектов по аналитике данных&nbsp;
 </h1>
 <br>
 
